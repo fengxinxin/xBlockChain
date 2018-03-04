@@ -15,7 +15,7 @@ public class XblockchainApplicationTests {
     //区块链
     public static ArrayList<Block> blockchain = new ArrayList<Block>();
     //区块链的难度
-    public static int difficulty = 6;
+    public static int difficulty = 5;
 
     @Test
     public void contextLoads() {
